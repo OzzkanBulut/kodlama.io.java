@@ -6,10 +6,14 @@ public class Main {
         System.out.println("Enter 2 numbers:");
         int num1= scan.nextInt();
         int num2= scan.nextInt();
-        calculator.add(num1,num2);
-        calculator.divide(num1,num2);
-        calculator.multiply(num1,num2);
-        System.out.println("jkgnkjdf");
+        int sum = calculator.add(num1,num2);
+        double division = calculator.divide(num1,num2);
+        int multiplication = calculator.multiply(num1,num2);
+        int subtraction = calculator.subtract(num1,num2);
+        System.out.println("Addition: " + sum);
+        System.out.println("Subtraction: " +subtraction);
+        System.out.println("Division: " + division);
+        System.out.println("Multiplication: " + multiplication);
 
     }
 }
