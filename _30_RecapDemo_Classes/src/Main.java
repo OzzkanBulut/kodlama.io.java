@@ -9,6 +9,7 @@ public class Main {
         calculator.add(num1,num2);
         calculator.divide(num1,num2);
         calculator.multiply(num1,num2);
+        System.out.println("jkgnkjdf");
 
     }
 }
