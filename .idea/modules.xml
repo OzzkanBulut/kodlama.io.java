@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/_06_variables/_06_variables.iml" filepath="$PROJECT_DIR$/_06_variables/_06_variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_07_DataTypes/_07_DataTypes.iml" filepath="$PROJECT_DIR$/_07_DataTypes/_07_DataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_08_if/_08_if.iml" filepath="$PROJECT_DIR$/_08_if/_08_if.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_09_recapIf/_09_recapIf.iml" filepath="$PROJECT_DIR$/_09_recapIf/_09_recapIf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_10_Switch/_10_Switch.iml" filepath="$PROJECT_DIR$/_10_Switch/_10_Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_11_for/_11_for.iml" filepath="$PROJECT_DIR$/_11_for/_11_for.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_12_while/_12_while.iml" filepath="$PROJECT_DIR$/_12_while/_12_while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_13_doWhile/_13_doWhile.iml" filepath="$PROJECT_DIR$/_13_doWhile/_13_doWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_14_Arrays/_14_Arrays.iml" filepath="$PROJECT_DIR$/_14_Arrays/_14_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_15_RecapArrays/_15_RecapArrays.iml" filepath="$PROJECT_DIR$/_15_RecapArrays/_15_RecapArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_16_MultiDimensionalArrays/_16_MultiDimensionalArrays.iml" filepath="$PROJECT_DIR$/_16_MultiDimensionalArrays/_16_MultiDimensionalArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_17_Strings/_17_Strings.iml" filepath="$PROJECT_DIR$/_17_Strings/_17_Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_18_Strings/_18_Strings.iml" filepath="$PROJECT_DIR$/_18_Strings/_18_Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_19_Project1AsalSayi/_19_Project1AsalSayi.iml" filepath="$PROJECT_DIR$/_19_Project1AsalSayi/_19_Project1AsalSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_20_ProjectVowels/_20_ProjectVowels.iml" filepath="$PROJECT_DIR$/_20_ProjectVowels/_20_ProjectVowels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_21_PerfectNumbers/_21_PerfectNumbers.iml" filepath="$PROJECT_DIR$/_21_PerfectNumbers/_21_PerfectNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_22_FriendNumbers/_22_FriendNumbers.iml" filepath="$PROJECT_DIR$/_22_FriendNumbers/_22_FriendNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_23_FindNumbers/_23_FindNumbers.iml" filepath="$PROJECT_DIR$/_23_FindNumbers/_23_FindNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_24_Methods/_24_Methods.iml" filepath="$PROJECT_DIR$/_24_Methods/_24_Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_25_MethodsWithParameters/_25_MethodsWithParameters.iml" filepath="$PROJECT_DIR$/_25_MethodsWithParameters/_25_MethodsWithParameters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_26_VariableArguments/_26_VariableArguments.iml" filepath="$PROJECT_DIR$/_26_VariableArguments/_26_VariableArguments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_27-28-29_Classes/_27-28-29_Classes.iml" filepath="$PROJECT_DIR$/_27-28-29_Classes/_27-28-29_Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_30_RecapDemo_Classes/_30_RecapDemo_Classes.iml" filepath="$PROJECT_DIR$/_30_RecapDemo_Classes/_30_RecapDemo_Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_31-32-33_Encapsulation-Getter-Setter/_31-32-33_Encapsulation-Getter-Setter.iml" filepath="$PROJECT_DIR$/_31-32-33_Encapsulation-Getter-Setter/_31-32-33_Encapsulation-Getter-Setter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_34_Constructor/_34_Constructor.iml" filepath="$PROJECT_DIR$/_34_Constructor/_34_Constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/kodlama.io.java.iml" filepath="$PROJECT_DIR$/.idea/kodlama.io.java.iml" />
+    </modules>
+  </component>
+</project>
