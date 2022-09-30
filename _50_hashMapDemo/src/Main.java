@@ -12,7 +12,7 @@ public class Main {
         System.out.println(sozluk.get("Table")); // Case sensitive
 //        sozluk.remove("Cat");  Remove
         System.out.println("size : "+ sozluk.size());
-        System.out.println(sozluk);
+        System.out.println(sozluk.keySet());
 //        sozluk.clear();       --->    Sozlugu tamamen siler
 //        Customer customer;    --->    Bu null bir ifade çünkü newlemedik
 
