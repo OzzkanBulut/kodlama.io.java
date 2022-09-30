@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/_41_abstractDemo/Exercise/Exercise.iml" filepath="$PROJECT_DIR$/_41_abstractDemo/Exercise/Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/_06_variables/_06_variables.iml" filepath="$PROJECT_DIR$/_06_variables/_06_variables.iml" />
       <module fileurl="file://$PROJECT_DIR$/_07_DataTypes/_07_DataTypes.iml" filepath="$PROJECT_DIR$/_07_DataTypes/_07_DataTypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/_08_if/_08_if.iml" filepath="$PROJECT_DIR$/_08_if/_08_if.iml" />
@@ -36,6 +37,7 @@
       <module fileurl="file://$PROJECT_DIR$/_41_abstractDemo/_41_abstractDemo.iml" filepath="$PROJECT_DIR$/_41_abstractDemo/_41_abstractDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/_42-43_interfaces/_42-43_interfaces.iml" filepath="$PROJECT_DIR$/_42-43_interfaces/_42-43_interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/_44_InterfaceDemo/_44_InterfaceDemo.iml" filepath="$PROJECT_DIR$/_44_InterfaceDemo/_44_InterfaceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_45_staticDemo/_45_staticDemo.iml" filepath="$PROJECT_DIR$/_45_staticDemo/_45_staticDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/kodlama.io.java.iml" filepath="$PROJECT_DIR$/.idea/kodlama.io.java.iml" />
     </modules>
   </component>
