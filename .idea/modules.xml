@@ -45,6 +45,7 @@
       <module fileurl="file://$PROJECT_DIR$/_50_hashMapDemo/_50_hashMapDemo.iml" filepath="$PROJECT_DIR$/_50_hashMapDemo/_50_hashMapDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/_51_exceptionHandling/_51_exceptionHandling.iml" filepath="$PROJECT_DIR$/_51_exceptionHandling/_51_exceptionHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/_52_readingFileDemo/_52_readingFileDemo.iml" filepath="$PROJECT_DIR$/_52_readingFileDemo/_52_readingFileDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_53_throwDemo/_53_throwDemo.iml" filepath="$PROJECT_DIR$/_53_throwDemo/_53_throwDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/kodlama.io.java.iml" filepath="$PROJECT_DIR$/.idea/kodlama.io.java.iml" />
     </modules>
   </component>
