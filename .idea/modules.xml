@@ -4,50 +4,51 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/_41_abstractDemo/Exercise/Exercise.iml" filepath="$PROJECT_DIR$/_41_abstractDemo/Exercise/Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/_06_variables/_06_variables.iml" filepath="$PROJECT_DIR$/_06_variables/_06_variables.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_07_DataTypes/_07_DataTypes.iml" filepath="$PROJECT_DIR$/_07_DataTypes/_07_DataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_07_dataTypes/_07_dataTypes.iml" filepath="$PROJECT_DIR$/_07_dataTypes/_07_dataTypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/_08_if/_08_if.iml" filepath="$PROJECT_DIR$/_08_if/_08_if.iml" />
       <module fileurl="file://$PROJECT_DIR$/_09_recapIf/_09_recapIf.iml" filepath="$PROJECT_DIR$/_09_recapIf/_09_recapIf.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_10_Switch/_10_Switch.iml" filepath="$PROJECT_DIR$/_10_Switch/_10_Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_10_switch/_10_switch.iml" filepath="$PROJECT_DIR$/_10_switch/_10_switch.iml" />
       <module fileurl="file://$PROJECT_DIR$/_11_for/_11_for.iml" filepath="$PROJECT_DIR$/_11_for/_11_for.iml" />
       <module fileurl="file://$PROJECT_DIR$/_12_while/_12_while.iml" filepath="$PROJECT_DIR$/_12_while/_12_while.iml" />
       <module fileurl="file://$PROJECT_DIR$/_13_doWhile/_13_doWhile.iml" filepath="$PROJECT_DIR$/_13_doWhile/_13_doWhile.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_14_Arrays/_14_Arrays.iml" filepath="$PROJECT_DIR$/_14_Arrays/_14_Arrays.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_15_RecapArrays/_15_RecapArrays.iml" filepath="$PROJECT_DIR$/_15_RecapArrays/_15_RecapArrays.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_16_MultiDimensionalArrays/_16_MultiDimensionalArrays.iml" filepath="$PROJECT_DIR$/_16_MultiDimensionalArrays/_16_MultiDimensionalArrays.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_17_Strings/_17_Strings.iml" filepath="$PROJECT_DIR$/_17_Strings/_17_Strings.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_18_Strings/_18_Strings.iml" filepath="$PROJECT_DIR$/_18_Strings/_18_Strings.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_19_Project1AsalSayi/_19_Project1AsalSayi.iml" filepath="$PROJECT_DIR$/_19_Project1AsalSayi/_19_Project1AsalSayi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_20_ProjectVowels/_20_ProjectVowels.iml" filepath="$PROJECT_DIR$/_20_ProjectVowels/_20_ProjectVowels.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_21_PerfectNumbers/_21_PerfectNumbers.iml" filepath="$PROJECT_DIR$/_21_PerfectNumbers/_21_PerfectNumbers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_22_FriendNumbers/_22_FriendNumbers.iml" filepath="$PROJECT_DIR$/_22_FriendNumbers/_22_FriendNumbers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_23_FindNumbers/_23_FindNumbers.iml" filepath="$PROJECT_DIR$/_23_FindNumbers/_23_FindNumbers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_24_Methods/_24_Methods.iml" filepath="$PROJECT_DIR$/_24_Methods/_24_Methods.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_25_MethodsWithParameters/_25_MethodsWithParameters.iml" filepath="$PROJECT_DIR$/_25_MethodsWithParameters/_25_MethodsWithParameters.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_26_VariableArguments/_26_VariableArguments.iml" filepath="$PROJECT_DIR$/_26_VariableArguments/_26_VariableArguments.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_27-28-29_Classes/_27-28-29_Classes.iml" filepath="$PROJECT_DIR$/_27-28-29_Classes/_27-28-29_Classes.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_30_RecapDemo_Classes/_30_RecapDemo_Classes.iml" filepath="$PROJECT_DIR$/_30_RecapDemo_Classes/_30_RecapDemo_Classes.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_31-32-33_Encapsulation-Getter-Setter/_31-32-33_Encapsulation-Getter-Setter.iml" filepath="$PROJECT_DIR$/_31-32-33_Encapsulation-Getter-Setter/_31-32-33_Encapsulation-Getter-Setter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_34_Constructor/_34_Constructor.iml" filepath="$PROJECT_DIR$/_34_Constructor/_34_Constructor.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_35_Overloading/_35_Overloading.iml" filepath="$PROJECT_DIR$/_35_Overloading/_35_Overloading.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_36_Inheritance/_36_Inheritance.iml" filepath="$PROJECT_DIR$/_36_Inheritance/_36_Inheritance.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_37_InheritanceDemo/_37_InheritanceDemo.iml" filepath="$PROJECT_DIR$/_37_InheritanceDemo/_37_InheritanceDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_38_PolymorphismDemo/_38_PolymorphismDemo.iml" filepath="$PROJECT_DIR$/_38_PolymorphismDemo/_38_PolymorphismDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_14_arrays/_14_arrays.iml" filepath="$PROJECT_DIR$/_14_arrays/_14_arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_15_recapArrays/_15_recapArrays.iml" filepath="$PROJECT_DIR$/_15_recapArrays/_15_recapArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_16_multiDimensionalArrays/_16_multiDimensionalArrays.iml" filepath="$PROJECT_DIR$/_16_multiDimensionalArrays/_16_multiDimensionalArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_17_strings/_17_strings.iml" filepath="$PROJECT_DIR$/_17_strings/_17_strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_18_strings/_18_strings.iml" filepath="$PROJECT_DIR$/_18_strings/_18_strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_19_projectPrimeNumbers/_19_projectPrimeNumbers.iml" filepath="$PROJECT_DIR$/_19_projectPrimeNumbers/_19_projectPrimeNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_20_projectVowels/_20_projectVowels.iml" filepath="$PROJECT_DIR$/_20_projectVowels/_20_projectVowels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_21_perfectNumbers/_21_perfectNumbers.iml" filepath="$PROJECT_DIR$/_21_perfectNumbers/_21_perfectNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_22_friendNumbers/_22_friendNumbers.iml" filepath="$PROJECT_DIR$/_22_friendNumbers/_22_friendNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_23_findNumbers/_23_findNumbers.iml" filepath="$PROJECT_DIR$/_23_findNumbers/_23_findNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_24_methods/_24_methods.iml" filepath="$PROJECT_DIR$/_24_methods/_24_methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_25_methodsWithParameters/_25_methodsWithParameters.iml" filepath="$PROJECT_DIR$/_25_methodsWithParameters/_25_methodsWithParameters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_26_variableArguments/_26_variableArguments.iml" filepath="$PROJECT_DIR$/_26_variableArguments/_26_variableArguments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_27-28-29_classes/_27-28-29_classes.iml" filepath="$PROJECT_DIR$/_27-28-29_classes/_27-28-29_classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_30_recapDemoClasses/_30_recapDemoClasses.iml" filepath="$PROJECT_DIR$/_30_recapDemoClasses/_30_recapDemoClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_31-32-33_encapsulation-getter-setter/_31-32-33_encapsulation-getter-setter.iml" filepath="$PROJECT_DIR$/_31-32-33_encapsulation-getter-setter/_31-32-33_encapsulation-getter-setter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_34_constructor/_34_constructor.iml" filepath="$PROJECT_DIR$/_34_constructor/_34_constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_35_overloading/_35_overloading.iml" filepath="$PROJECT_DIR$/_35_overloading/_35_overloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_36_inheritance/_36_inheritance.iml" filepath="$PROJECT_DIR$/_36_inheritance/_36_inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_37_inheritanceDemo/_37_inheritanceDemo.iml" filepath="$PROJECT_DIR$/_37_inheritanceDemo/_37_inheritanceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_38_polymorphismDemo/_38_polymorphismDemo.iml" filepath="$PROJECT_DIR$/_38_polymorphismDemo/_38_polymorphismDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/_39_overriding/_39_overriding.iml" filepath="$PROJECT_DIR$/_39_overriding/_39_overriding.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_40_AbstractClasses/_40_AbstractClasses.iml" filepath="$PROJECT_DIR$/_40_AbstractClasses/_40_AbstractClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_40_abstractClasses/_40_abstractClasses.iml" filepath="$PROJECT_DIR$/_40_abstractClasses/_40_abstractClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/_41_abstractDemo/_41_abstractDemo.iml" filepath="$PROJECT_DIR$/_41_abstractDemo/_41_abstractDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/_42-43_interfaces/_42-43_interfaces.iml" filepath="$PROJECT_DIR$/_42-43_interfaces/_42-43_interfaces.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_44_InterfaceDemo/_44_InterfaceDemo.iml" filepath="$PROJECT_DIR$/_44_InterfaceDemo/_44_InterfaceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_44_interfaceDemo/_44_interfaceDemo.iml" filepath="$PROJECT_DIR$/_44_interfaceDemo/_44_interfaceDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/_45_staticDemo/_45_staticDemo.iml" filepath="$PROJECT_DIR$/_45_staticDemo/_45_staticDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/_46_packagesDemo/_46_packagesDemo.iml" filepath="$PROJECT_DIR$/_46_packagesDemo/_46_packagesDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_47_ArrayListDemo/_47_ArrayListDemo.iml" filepath="$PROJECT_DIR$/_47_ArrayListDemo/_47_ArrayListDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_48_ArrayListTypedDemo/_48_ArrayListTypedDemo.iml" filepath="$PROJECT_DIR$/_48_ArrayListTypedDemo/_48_ArrayListTypedDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_49_ArrayListWithClass/_49_ArrayListWithClass.iml" filepath="$PROJECT_DIR$/_49_ArrayListWithClass/_49_ArrayListWithClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_47_arrayListDemo/_47_arrayListDemo.iml" filepath="$PROJECT_DIR$/_47_arrayListDemo/_47_arrayListDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_48_arrayListTypedDemo/_48_arrayListTypedDemo.iml" filepath="$PROJECT_DIR$/_48_arrayListTypedDemo/_48_arrayListTypedDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_49_arrayListWithClass/_49_arrayListWithClass.iml" filepath="$PROJECT_DIR$/_49_arrayListWithClass/_49_arrayListWithClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/_50_hashMapDemo/_50_hashMapDemo.iml" filepath="$PROJECT_DIR$/_50_hashMapDemo/_50_hashMapDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/_51_exceptionHandling/_51_exceptionHandling.iml" filepath="$PROJECT_DIR$/_51_exceptionHandling/_51_exceptionHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/_52_readingFileDemo/_52_readingFileDemo.iml" filepath="$PROJECT_DIR$/_52_readingFileDemo/_52_readingFileDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/_53_throwDemo/_53_throwDemo.iml" filepath="$PROJECT_DIR$/_53_throwDemo/_53_throwDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/_54_workingWithFiles/_54_workingWithFiles.iml" filepath="$PROJECT_DIR$/_54_workingWithFiles/_54_workingWithFiles.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_55_Generics/_55_Generics.iml" filepath="$PROJECT_DIR$/_55_Generics/_55_Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_55_generics/_55_generics.iml" filepath="$PROJECT_DIR$/_55_generics/_55_generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_56_repositoryDemo/_56_repositoryDemo.iml" filepath="$PROJECT_DIR$/_56_repositoryDemo/_56_repositoryDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/kodlama.io.java.iml" filepath="$PROJECT_DIR$/.idea/kodlama.io.java.iml" />
     </modules>
   </component>
