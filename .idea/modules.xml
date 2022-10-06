@@ -3,25 +3,25 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/_41_abstractDemo/Exercise/Exercise.iml" filepath="$PROJECT_DIR$/_41_abstractDemo/Exercise/Exercise.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_06_variables/_06_variables.iml" filepath="$PROJECT_DIR$/_06_variables/_06_variables.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_07_dataTypes/_07_dataTypes.iml" filepath="$PROJECT_DIR$/_07_dataTypes/_07_dataTypes.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_08_if/_08_if.iml" filepath="$PROJECT_DIR$/_08_if/_08_if.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_09_recapIf/_09_recapIf.iml" filepath="$PROJECT_DIR$/_09_recapIf/_09_recapIf.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_10_switch/_10_switch.iml" filepath="$PROJECT_DIR$/_10_switch/_10_switch.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_11_for/_11_for.iml" filepath="$PROJECT_DIR$/_11_for/_11_for.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_12_while/_12_while.iml" filepath="$PROJECT_DIR$/_12_while/_12_while.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_13_doWhile/_13_doWhile.iml" filepath="$PROJECT_DIR$/_13_doWhile/_13_doWhile.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_14_arrays/_14_arrays.iml" filepath="$PROJECT_DIR$/_14_arrays/_14_arrays.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_15_recapArrays/_15_recapArrays.iml" filepath="$PROJECT_DIR$/_15_recapArrays/_15_recapArrays.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_16_multiDimensionalArrays/_16_multiDimensionalArrays.iml" filepath="$PROJECT_DIR$/_16_multiDimensionalArrays/_16_multiDimensionalArrays.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_17_strings/_17_strings.iml" filepath="$PROJECT_DIR$/_17_strings/_17_strings.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_18_strings/_18_strings.iml" filepath="$PROJECT_DIR$/_18_strings/_18_strings.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_19_projectPrimeNumbers/_19_projectPrimeNumbers.iml" filepath="$PROJECT_DIR$/_19_projectPrimeNumbers/_19_projectPrimeNumbers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_20_projectVowels/_20_projectVowels.iml" filepath="$PROJECT_DIR$/_20_projectVowels/_20_projectVowels.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_21_perfectNumbers/_21_perfectNumbers.iml" filepath="$PROJECT_DIR$/_21_perfectNumbers/_21_perfectNumbers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_22_friendNumbers/_22_friendNumbers.iml" filepath="$PROJECT_DIR$/_22_friendNumbers/_22_friendNumbers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_23_findNumbers/_23_findNumbers.iml" filepath="$PROJECT_DIR$/_23_findNumbers/_23_findNumbers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_24_methods/_24_methods.iml" filepath="$PROJECT_DIR$/_24_methods/_24_methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week1/_06_variables/_06_variables.iml" filepath="$PROJECT_DIR$/homeworks/Week1/_06_variables/_06_variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week1/_07_dataTypes/_07_dataTypes.iml" filepath="$PROJECT_DIR$/homeworks/Week1/_07_dataTypes/_07_dataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week1/_08_if/_08_if.iml" filepath="$PROJECT_DIR$/homeworks/Week1/_08_if/_08_if.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week1/_09_recapIf/_09_recapIf.iml" filepath="$PROJECT_DIR$/homeworks/Week1/_09_recapIf/_09_recapIf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week1/_10_switch/_10_switch.iml" filepath="$PROJECT_DIR$/homeworks/Week1/_10_switch/_10_switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week1/_11_for/_11_for.iml" filepath="$PROJECT_DIR$/homeworks/Week1/_11_for/_11_for.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week1/_12_while/_12_while.iml" filepath="$PROJECT_DIR$/homeworks/Week1/_12_while/_12_while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week1/_13_doWhile/_13_doWhile.iml" filepath="$PROJECT_DIR$/homeworks/Week1/_13_doWhile/_13_doWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week1/_14_arrays/_14_arrays.iml" filepath="$PROJECT_DIR$/homeworks/Week1/_14_arrays/_14_arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week1/_15_recapArrays/_15_recapArrays.iml" filepath="$PROJECT_DIR$/homeworks/Week1/_15_recapArrays/_15_recapArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week1/_16_multiDimensionalArrays/_16_multiDimensionalArrays.iml" filepath="$PROJECT_DIR$/homeworks/Week1/_16_multiDimensionalArrays/_16_multiDimensionalArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week1/_17_strings/_17_strings.iml" filepath="$PROJECT_DIR$/homeworks/Week1/_17_strings/_17_strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week1/_18_strings/_18_strings.iml" filepath="$PROJECT_DIR$/homeworks/Week1/_18_strings/_18_strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week1/_19_projectPrimeNumbers/_19_projectPrimeNumbers.iml" filepath="$PROJECT_DIR$/homeworks/Week1/_19_projectPrimeNumbers/_19_projectPrimeNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week1/_20_projectVowels/_20_projectVowels.iml" filepath="$PROJECT_DIR$/homeworks/Week1/_20_projectVowels/_20_projectVowels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week1/_21_perfectNumbers/_21_perfectNumbers.iml" filepath="$PROJECT_DIR$/homeworks/Week1/_21_perfectNumbers/_21_perfectNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week1/_22_friendNumbers/_22_friendNumbers.iml" filepath="$PROJECT_DIR$/homeworks/Week1/_22_friendNumbers/_22_friendNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week1/_23_findNumbers/_23_findNumbers.iml" filepath="$PROJECT_DIR$/homeworks/Week1/_23_findNumbers/_23_findNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week1/_24_methods/_24_methods.iml" filepath="$PROJECT_DIR$/homeworks/Week1/_24_methods/_24_methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/_25_methodsWithParameters/_25_methodsWithParameters.iml" filepath="$PROJECT_DIR$/_25_methodsWithParameters/_25_methodsWithParameters.iml" />
       <module fileurl="file://$PROJECT_DIR$/_26_variableArguments/_26_variableArguments.iml" filepath="$PROJECT_DIR$/_26_variableArguments/_26_variableArguments.iml" />
       <module fileurl="file://$PROJECT_DIR$/_27-28-29_classes/_27-28-29_classes.iml" filepath="$PROJECT_DIR$/_27-28-29_classes/_27-28-29_classes.iml" />
