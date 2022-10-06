@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/_41_abstractDemo/Exercise/Exercise.iml" filepath="$PROJECT_DIR$/_41_abstractDemo/Exercise/Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week3/_41_abstractDemo/Exercise/Exercise.iml" filepath="$PROJECT_DIR$/homeworks/Week3/_41_abstractDemo/Exercise/Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/homeworks/Week1/_06_variables/_06_variables.iml" filepath="$PROJECT_DIR$/homeworks/Week1/_06_variables/_06_variables.iml" />
       <module fileurl="file://$PROJECT_DIR$/homeworks/Week1/_07_dataTypes/_07_dataTypes.iml" filepath="$PROJECT_DIR$/homeworks/Week1/_07_dataTypes/_07_dataTypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/homeworks/Week1/_08_if/_08_if.iml" filepath="$PROJECT_DIR$/homeworks/Week1/_08_if/_08_if.iml" />
@@ -22,36 +22,37 @@
       <module fileurl="file://$PROJECT_DIR$/homeworks/Week1/_22_friendNumbers/_22_friendNumbers.iml" filepath="$PROJECT_DIR$/homeworks/Week1/_22_friendNumbers/_22_friendNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/homeworks/Week1/_23_findNumbers/_23_findNumbers.iml" filepath="$PROJECT_DIR$/homeworks/Week1/_23_findNumbers/_23_findNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/homeworks/Week1/_24_methods/_24_methods.iml" filepath="$PROJECT_DIR$/homeworks/Week1/_24_methods/_24_methods.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_25_methodsWithParameters/_25_methodsWithParameters.iml" filepath="$PROJECT_DIR$/_25_methodsWithParameters/_25_methodsWithParameters.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_26_variableArguments/_26_variableArguments.iml" filepath="$PROJECT_DIR$/_26_variableArguments/_26_variableArguments.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_27-28-29_classes/_27-28-29_classes.iml" filepath="$PROJECT_DIR$/_27-28-29_classes/_27-28-29_classes.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_30_recapDemoClasses/_30_recapDemoClasses.iml" filepath="$PROJECT_DIR$/_30_recapDemoClasses/_30_recapDemoClasses.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_31-32-33_encapsulation-getter-setter/_31-32-33_encapsulation-getter-setter.iml" filepath="$PROJECT_DIR$/_31-32-33_encapsulation-getter-setter/_31-32-33_encapsulation-getter-setter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_34_constructor/_34_constructor.iml" filepath="$PROJECT_DIR$/_34_constructor/_34_constructor.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_35_overloading/_35_overloading.iml" filepath="$PROJECT_DIR$/_35_overloading/_35_overloading.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_36_inheritance/_36_inheritance.iml" filepath="$PROJECT_DIR$/_36_inheritance/_36_inheritance.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_37_inheritanceDemo/_37_inheritanceDemo.iml" filepath="$PROJECT_DIR$/_37_inheritanceDemo/_37_inheritanceDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_38_polymorphismDemo/_38_polymorphismDemo.iml" filepath="$PROJECT_DIR$/_38_polymorphismDemo/_38_polymorphismDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_39_overriding/_39_overriding.iml" filepath="$PROJECT_DIR$/_39_overriding/_39_overriding.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_40_abstractClasses/_40_abstractClasses.iml" filepath="$PROJECT_DIR$/_40_abstractClasses/_40_abstractClasses.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_41_abstractDemo/_41_abstractDemo.iml" filepath="$PROJECT_DIR$/_41_abstractDemo/_41_abstractDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_42-43_interfaces/_42-43_interfaces.iml" filepath="$PROJECT_DIR$/_42-43_interfaces/_42-43_interfaces.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_44_interfaceDemo/_44_interfaceDemo.iml" filepath="$PROJECT_DIR$/_44_interfaceDemo/_44_interfaceDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_45_staticDemo/_45_staticDemo.iml" filepath="$PROJECT_DIR$/_45_staticDemo/_45_staticDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_46_packagesDemo/_46_packagesDemo.iml" filepath="$PROJECT_DIR$/_46_packagesDemo/_46_packagesDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_47_arrayListDemo/_47_arrayListDemo.iml" filepath="$PROJECT_DIR$/_47_arrayListDemo/_47_arrayListDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_48_arrayListTypedDemo/_48_arrayListTypedDemo.iml" filepath="$PROJECT_DIR$/_48_arrayListTypedDemo/_48_arrayListTypedDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_49_arrayListWithClass/_49_arrayListWithClass.iml" filepath="$PROJECT_DIR$/_49_arrayListWithClass/_49_arrayListWithClass.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_50_hashMapDemo/_50_hashMapDemo.iml" filepath="$PROJECT_DIR$/_50_hashMapDemo/_50_hashMapDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_51_exceptionHandling/_51_exceptionHandling.iml" filepath="$PROJECT_DIR$/_51_exceptionHandling/_51_exceptionHandling.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_52_readingFileDemo/_52_readingFileDemo.iml" filepath="$PROJECT_DIR$/_52_readingFileDemo/_52_readingFileDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_53_throwDemo/_53_throwDemo.iml" filepath="$PROJECT_DIR$/_53_throwDemo/_53_throwDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_54_workingWithFiles/_54_workingWithFiles.iml" filepath="$PROJECT_DIR$/_54_workingWithFiles/_54_workingWithFiles.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_55_generics/_55_generics.iml" filepath="$PROJECT_DIR$/_55_generics/_55_generics.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_56_repositoryDemo/_56_repositoryDemo.iml" filepath="$PROJECT_DIR$/_56_repositoryDemo/_56_repositoryDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week2/_25_methodsWithParameters/_25_methodsWithParameters.iml" filepath="$PROJECT_DIR$/homeworks/Week2/_25_methodsWithParameters/_25_methodsWithParameters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week2/_26_variableArguments/_26_variableArguments.iml" filepath="$PROJECT_DIR$/homeworks/Week2/_26_variableArguments/_26_variableArguments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week2/_27-28-29_classes/_27-28-29_classes.iml" filepath="$PROJECT_DIR$/homeworks/Week2/_27-28-29_classes/_27-28-29_classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week2/_30_recapDemoClasses/_30_recapDemoClasses.iml" filepath="$PROJECT_DIR$/homeworks/Week2/_30_recapDemoClasses/_30_recapDemoClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week2/_31-32-33_encapsulation-getter-setter/_31-32-33_encapsulation-getter-setter.iml" filepath="$PROJECT_DIR$/homeworks/Week2/_31-32-33_encapsulation-getter-setter/_31-32-33_encapsulation-getter-setter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week2/_34_constructor/_34_constructor.iml" filepath="$PROJECT_DIR$/homeworks/Week2/_34_constructor/_34_constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week2/_35_overloading/_35_overloading.iml" filepath="$PROJECT_DIR$/homeworks/Week2/_35_overloading/_35_overloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week2/_36_inheritance/_36_inheritance.iml" filepath="$PROJECT_DIR$/homeworks/Week2/_36_inheritance/_36_inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week2/_37_inheritanceDemo/_37_inheritanceDemo.iml" filepath="$PROJECT_DIR$/homeworks/Week2/_37_inheritanceDemo/_37_inheritanceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week3/_38_polymorphismDemo/_38_polymorphismDemo.iml" filepath="$PROJECT_DIR$/homeworks/Week3/_38_polymorphismDemo/_38_polymorphismDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week3/_39_overriding/_39_overriding.iml" filepath="$PROJECT_DIR$/homeworks/Week3/_39_overriding/_39_overriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week3/_40_abstractClasses/_40_abstractClasses.iml" filepath="$PROJECT_DIR$/homeworks/Week3/_40_abstractClasses/_40_abstractClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week3/_41_abstractDemo/_41_abstractDemo.iml" filepath="$PROJECT_DIR$/homeworks/Week3/_41_abstractDemo/_41_abstractDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week3/_42-43_interfaces/_42-43_interfaces.iml" filepath="$PROJECT_DIR$/homeworks/Week3/_42-43_interfaces/_42-43_interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week3/_44_interfaceDemo/_44_interfaceDemo.iml" filepath="$PROJECT_DIR$/homeworks/Week3/_44_interfaceDemo/_44_interfaceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week3/_45_staticDemo/_45_staticDemo.iml" filepath="$PROJECT_DIR$/homeworks/Week3/_45_staticDemo/_45_staticDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week3/_46_packagesDemo/_46_packagesDemo.iml" filepath="$PROJECT_DIR$/homeworks/Week3/_46_packagesDemo/_46_packagesDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week3/_47_arrayListDemo/_47_arrayListDemo.iml" filepath="$PROJECT_DIR$/homeworks/Week3/_47_arrayListDemo/_47_arrayListDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week3/_48_arrayListTypedDemo/_48_arrayListTypedDemo.iml" filepath="$PROJECT_DIR$/homeworks/Week3/_48_arrayListTypedDemo/_48_arrayListTypedDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week3/_49_arrayListWithClass/_49_arrayListWithClass.iml" filepath="$PROJECT_DIR$/homeworks/Week3/_49_arrayListWithClass/_49_arrayListWithClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week3/_50_hashMapDemo/_50_hashMapDemo.iml" filepath="$PROJECT_DIR$/homeworks/Week3/_50_hashMapDemo/_50_hashMapDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week3/_51_exceptionHandling/_51_exceptionHandling.iml" filepath="$PROJECT_DIR$/homeworks/Week3/_51_exceptionHandling/_51_exceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week3/_52_readingFileDemo/_52_readingFileDemo.iml" filepath="$PROJECT_DIR$/homeworks/Week3/_52_readingFileDemo/_52_readingFileDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week3/_53_throwDemo/_53_throwDemo.iml" filepath="$PROJECT_DIR$/homeworks/Week3/_53_throwDemo/_53_throwDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week3/_54_workingWithFiles/_54_workingWithFiles.iml" filepath="$PROJECT_DIR$/homeworks/Week3/_54_workingWithFiles/_54_workingWithFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week3/_55_generics/_55_generics.iml" filepath="$PROJECT_DIR$/homeworks/Week3/_55_generics/_55_generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week3/_56_repositoryDemo/_56_repositoryDemo.iml" filepath="$PROJECT_DIR$/homeworks/Week3/_56_repositoryDemo/_56_repositoryDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/homeworks/homeworks.iml" filepath="$PROJECT_DIR$/homeworks/homeworks.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/kodlama.io.java.iml" filepath="$PROJECT_DIR$/.idea/kodlama.io.java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/oopWidthNLayeredApp/oopWidthNLayeredApp.iml" filepath="$PROJECT_DIR$/oopWidthNLayeredApp/oopWidthNLayeredApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week3/oopWidthNLayeredApp/oopWidthNLayeredApp.iml" filepath="$PROJECT_DIR$/homeworks/Week3/oopWidthNLayeredApp/oopWidthNLayeredApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeworks/Week3/youtubeEgitim/youtubeEgitim.iml" filepath="$PROJECT_DIR$/homeworks/Week3/youtubeEgitim/youtubeEgitim.iml" />
     </modules>
   </component>
 </project>
