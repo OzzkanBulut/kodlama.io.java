@@ -1,8 +1,6 @@
 package kodlamaioNLayeredApp.business;
 
 import kodlamaioNLayeredApp.entities.Category;
-import kodlamaioNLayeredApp.entities.Course;
-
 import java.util.ArrayList;
 
 public class CategoryManager {

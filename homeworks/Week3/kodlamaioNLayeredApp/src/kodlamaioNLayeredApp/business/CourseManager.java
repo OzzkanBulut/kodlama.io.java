@@ -10,7 +10,6 @@ import java.util.Objects;
 public class CourseManager {
     private CourseDao courseDao;
     private Logger[] loggers;
-
     private ArrayList<Course> courses;
 
     public CourseManager(CourseDao courseDao, Logger[] loggers, ArrayList<Course> courses) {
@@ -21,11 +20,8 @@ public class CourseManager {
 
     public void add(Course course) throws Exception {
 
-
-
         for (Course cours : courses) {
             if (course.getCourseName().equals(cours.getCourseName())) {
-                System.out.println("asdas");
                 throw new Exception("Course name can not be same!");
             }
 
@@ -38,11 +34,11 @@ public class CourseManager {
         courseDao.add(course);
     }
 
-    public void list(Course course){
+    public void list(Course course) {
         courseDao.list(course);
     }
 
-    public void log(Course course){
+    public void log(Course course) {
         for (Logger logger : loggers) {
             logger.log(course.getCourseName() + " ");
         }

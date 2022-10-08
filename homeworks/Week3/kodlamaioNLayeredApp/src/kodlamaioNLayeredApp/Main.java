@@ -25,13 +25,13 @@ public class Main {
         ArrayList<Instructor> instructors = new ArrayList<>();
 
         Category category1 = new Category(1, "Programming");
-        Category category2 = new Category(2,"Computer Science");
+        Category category2 = new Category(2, "Computer Science");
 
         Instructor instructor1 = new Instructor(1, "Engin Demiroğ");
-        Instructor instructor2 = new Instructor(2,"Şadi Evren Şeker");
+        Instructor instructor2 = new Instructor(2, "Şadi Evren Şeker");
 
         Course course1 = new Course(1, "Java", instructor1.getInstructorName(), category1.getCategoryName(), 100);
-        Course course2 = new Course(2,"C++", instructor2.getInstructorName(), category2.getCategoryName(), 123);
+        Course course2 = new Course(2, "C++", instructor2.getInstructorName(), category2.getCategoryName(), 123);
 
         CategoryManager categoryManager = new CategoryManager(categories);
         categoryManager.addCategory(category1);
@@ -41,7 +41,7 @@ public class Main {
         CourseManager courseManager1 = new CourseManager(new HibernateCourseDao(), loggers, courses);
         courseManager1.add(course1);
 
-        CourseManager courseManager2 = new CourseManager(new JdbcCourseDao(),loggers,courses);
+        CourseManager courseManager2 = new CourseManager(new JdbcCourseDao(), loggers, courses);
         courseManager2.add(course2);
 
 //      courseManager1.add(course1; ----> throws an exception because this course already exists
