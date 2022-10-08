@@ -7,7 +7,6 @@ import kodlamaioNLayeredApp.core.logging.DatabaseLogger;
 import kodlamaioNLayeredApp.core.logging.FileLogger;
 import kodlamaioNLayeredApp.core.logging.Logger;
 import kodlamaioNLayeredApp.core.logging.MailLogger;
-import kodlamaioNLayeredApp.dataAccess.CourseDao;
 import kodlamaioNLayeredApp.dataAccess.HibernateCourseDao;
 import kodlamaioNLayeredApp.dataAccess.JdbcCourseDao;
 import kodlamaioNLayeredApp.entities.Category;
@@ -45,8 +44,8 @@ public class Main {
         CourseManager courseManager2 = new CourseManager(new JdbcCourseDao(),loggers,courses);
         courseManager2.add(course2);
 
-//      courseManager1.add(course1); throws an exception because this course already exists
-//      categoryManager.addCategory(category1); throws an exception because this category already exists
+//      courseManager1.add(course1; ----> throws an exception because this course already exists
+//      categoryManager.addCategory(category1); ----> throws an exception because this category already exists
 
         courseManager1.list(course1);
         courseManager2.list(course2);
