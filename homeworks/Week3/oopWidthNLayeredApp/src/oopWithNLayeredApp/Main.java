@@ -1,6 +1,6 @@
 package oopWithNLayeredApp;
 
-import oopWithNLayeredApp.Business.ProductManager;
+import oopWithNLayeredApp.business.ProductManager;
 import oopWithNLayeredApp.core.logging.DatabaseLogger;
 import oopWithNLayeredApp.core.logging.FileLogger;
 import oopWithNLayeredApp.core.logging.Logger;
