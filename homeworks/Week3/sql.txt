@@ -1,0 +1,45 @@
+-- Select
+--ANSII
+Select ContactName Adi, CompanyName Sirketadi, City sehir from Customers
+
+Select * from Custoemrs where City = 'Berlin'
+
+--case insensitive
+seLect * from Products where CategoryID=1 or CategoryID = 3
+
+Select * from Products where CategoryID=1 and UnitPrice > 10 
+ 
+select * from Products  order by Price asc -- ascending
+
+select * from Products  order by Price desc -- descending
+
+select * from Products where Categoryid = 1  order by Productname desc
+
+select count(*) Adet from customers where City='London'
+
+select categoryid,productname,count(*) from products group by categoryid
+
+select categoryid,productname,count(*) from products group by categoryid having count(*) < 10
+
+
+select products.productid,products.productname,products.price,categories.categoryname
+from products inner join categories
+on Products.CategoryID=Categories.CategoryID
+
+-- DTO Data Transformation Object
+
+select * from Products p inner join OrderDetails od 
+on p.Productid = od.Productid // iki üründe olanları da getir
+
+select * from Products p left join OrderDetails od 
+on p.Productid = od.Productid -- Solda olup sağda olmayanları da getir
+ 
+select * from customers c left join orders ord
+on c.customerid = ord.customerid
+where ord.customerid is null  -- Sipariş vermeyen customerları bul demek // Bu koşul her zaman primary key e uygulanır 
+
+SELECT * FROM orders ord right join customers c  // yerlerini değiştirip right join yapaiblirsin
+on c.customerid = ord.customerid
+where ord.customerid is null
+
+
